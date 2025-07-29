@@ -1,10 +1,10 @@
 -- Insert student data
 INSERT INTO students (id, name, age, city) VALUES
 (1, 'Muktha', 19, 'Rayachoty'),
-(2, 'Rani', 18, 'Tirupati'),
-(3, 'Kiran', 21, 'Hyderabad'),
-(4, 'Ajay', 17, 'Rayachoty'),
-(5, 'Sneha', 20, 'Chennai');
+(2, 'Anjali', 18, 'Tirupati'),
+(3, 'Prerana', 21, 'Hyderabad'),
+(4, 'Mithra', 17, 'Rayachoty'),
+(5, 'Amrutha', 20, 'Chennai');
 
 -- Insert course data
 INSERT INTO courses (course_id, course_name) VALUES
