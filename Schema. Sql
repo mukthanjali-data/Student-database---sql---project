@@ -1,0 +1,25 @@
+-- Creating database
+CREATE DATABASE students;
+
+-- Creating student table
+CREATE TABLE students (
+  id INT PRIMARY KEY,
+  name VARCHAR(50),
+  age INT,
+  city VARCHAR(30)
+);
+
+-- Creating courses table
+CREATE TABLE courses (
+  course_id INT PRIMARY KEY,
+  course_name VARCHAR(50)
+);
+
+-- Creating marks table
+CREATE TABLE marks (
+  student_id INT,
+  course_id INT,
+  score INT,
+  FOREIGN KEY (student_id) REFERENCES students(id),
+  FOREIGN KEY (course_id) REFERENCES courses(course_id)
+);
