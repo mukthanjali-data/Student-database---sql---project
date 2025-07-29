@@ -44,7 +44,7 @@ A beginner-friendly SQL project that demonstrates how to build, populate, and an
 
 ## 🛠️ Tools Used
 
-- **MySQL** (or any SQL engine)
+- **MySQL**
 - **Git & GitHub** for version control
 
 ---
@@ -53,12 +53,4 @@ A beginner-friendly SQL project that demonstrates how to build, populate, and an
 
 **Mukthanjali Bonala**  
 📍 Rayachoty, Andhra Pradesh  
-💼 Aspiring Data Analyst | Python & SQL Learner  
-
----
-
-## ⭐ What's Next?
-
-- Add more queries (like subqueries, window functions)
-- Convert to a web-based student portal using Python + Flask + SQL
-- Use this as a mini-project on resume and GitHub portfolio!
+💼 Aspiring Data Analyst | 
