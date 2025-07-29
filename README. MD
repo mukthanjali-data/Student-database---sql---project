@@ -1,0 +1,24 @@
+# Student Database Analysis (SQL Project)
+
+This project uses SQL to build and analyze a mini database of students, courses, and marks.
+
+## 🔧 Tables Used:
+- `students`: Stores student details
+- `courses`: Stores course info
+- `marks`: Stores scores of students in each course
+
+## 📊 Features & Queries:
+- Count of students from each city
+- Average marks of each student
+- Student count per course
+- High scorers (score > 85)
+
+## 💡 Skills Used:
+`CREATE`, `INSERT`, `JOIN`, `GROUP BY`, `AVG()`, `COUNT()`, `WHERE`, `FOREIGN KEY`
+
+## 🛠️ Technologies:
+- SQL (MySQL syntax)
+- Git & GitHub for version control
+
+## ✅ Author:
+Mukthanjali Bonala
