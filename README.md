@@ -1,2 +1,2 @@
-# Student-database---sql---project
+# Student-database-sql-project
 Mini sql project analyzing student data using SELECT, JOIN, GROUP BY etc...
