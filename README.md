@@ -45,7 +45,7 @@ A beginner-friendly SQL project that demonstrates how to build, populate, and an
 ## 🛠️ Tools Used
 
 - **MySQL**
-- **Git & GitHub** for version control
+- GitHub** for version control
 
 ---
 
